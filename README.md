@@ -1,4 +1,4 @@
-# Sub Purifier
+# Subtitle Sanitizer
 
 ## Description
 
