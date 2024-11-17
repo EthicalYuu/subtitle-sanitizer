@@ -1,5 +1,11 @@
 # Subtitle Sanitizer
 
+> **⚠️ Note:**  
+> **This project is an old project created while I was learning programming.**  
+> The code does not follow modern best practices and may need refactoring.  
+> It serves as a learning example and is not maintained according to current standards.  
+> **However, it still works as expected.**
+
 ## Description
 This Python script utilizes Tkinter to create a simple GUI for purifying subtitles by replacing certain words with their alternatives. The word replacements are read from a file named `word_alt.txt`.
 
